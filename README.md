@@ -1,3 +1,3 @@
 # Lakearch Projects
 
-### 1.[ Mansion House Wifi Using Meraki](https://github.com/lakearch-uk/mansion-house-meraki " MANSION HOUSE WIFI USING MERAKI")
+### 1.[ MH Wifi Using Meraki](https://github.com/lakearch-uk/mansion-house-meraki " MH WIFI USING MERAKI")
